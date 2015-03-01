@@ -95,7 +95,7 @@
         welcome: true,
         opLink: "https://github.com/Livelycobra/hazardouspiggi/blob/master/OP.md",
         rulesLink: "https://github.com/Livelycobra/hazardouspiggi/blob/master/README.md",
-        themeLink: null,
+        themeLink: "http://i.imgur.com/tOEACrk.png",
         fbLink: null,
         youtubeLink: null,
         website: null,
