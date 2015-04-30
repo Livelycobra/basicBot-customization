@@ -53,12 +53,12 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Piggibot",
+        botName: "Cobrabot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
-        startupEmoji: false, // true or false
+        startupEmoji: true, // true or false
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
@@ -68,7 +68,7 @@
         maximumLocktime: 10,
         cycleGuard: true,
         maximumCycletime: 10,
-        voteSkip: false,
+        voteSkip: true,
         voteSkipLimit: 10,
         timeGuard: true,
         maximumSongLength: 6,
@@ -93,8 +93,8 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: "https://github.com/Livelycobra/hazardouspiggi/blob/master/OP.md",
-        rulesLink: "https://github.com/Livelycobra/hazardouspiggi/blob/master/README.md",
+        opLink: "https://github.com/Livelycobra/Livelycobra./blob/master/OP",
+        rulesLink: "https://github.com/Livelycobra/Livelycobra./blob/master/README.md",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
