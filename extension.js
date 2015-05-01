@@ -95,7 +95,7 @@
         welcome: true,
         opLink: "https://github.com/Livelycobra/Livelycobra./blob/master/OP",
         rulesLink: "https://github.com/Livelycobra/Livelycobra./blob/master/README.md",
-        themeLink: null,
+        themeLink: EDM,
         fbLink: null,
         youtubeLink: null,
         website: null,
