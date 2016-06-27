@@ -94,7 +94,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: "https://github.com/Livelycobra/Livelycobra./blob/master/OP",
-        rulesLink: "https://github.com/Livelycobra/Livelycobra./blob/master/README.md",
+        rulesLink: "https://github.com/Livelycobra/basicBot-customization/blob/master/rules.md",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
