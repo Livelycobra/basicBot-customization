@@ -13,3 +13,5 @@
 - Don't play OP (Over Played) songs.
 
 - Don't argue with staff.
+
+- Mixes over 5 mins are prohibited
