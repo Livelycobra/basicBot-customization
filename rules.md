@@ -15,3 +15,5 @@
 - Don't argue with staff.
 
 - Mixes over 5 mins are prohibited
+
+- Parody may be skipped at staff descression.
